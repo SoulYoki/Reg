@@ -1,0 +1,37 @@
+﻿<Window x:Class="Reg.auto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reg"
+        mc:Ignorable="d"
+        Title="auto" Height="420" Width="380">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="5" x:Name="AutorizationDataSP">
+            <Label Width="50" Margin="5,50,5,5 "  >Логин</Label>
+            <TextBox x:Name="LoginTB" Height="20"></TextBox>
+            <Label Width="50" Margin="5,50,5,5" >Пароль</Label>
+            <TextBox x:Name="PasswordTB" Height="20"></TextBox>
+
+            <DockPanel Margin="15" Visibility="Hidden" x:Name="CaptchaDP">
+                <TextBox x:Name="CaptchaTextBox" IsReadOnly="True" IsEnabled="False"  FontSize="20" FontWeight="Bold"/>
+                <Label x:Name="CaptchaLabel" >CAPTCHA</Label>
+                <TextBox x:Name="CaptchaCheckTextBox"/>
+            </DockPanel>
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" x:Name="ButtonsSP">
+            <Button x:Name="LoginButton" Margin="10 20 0 0" Width="40" HorizontalAlignment="Center"  Background="PeachPuff" Click="Button_Click">Войти</Button>
+            <Button x:Name="GuestButton"  Width="40" HorizontalAlignment="Right" Margin="0 0 10 0" Background="DarkGray" Click="GuestButton_Click">гость</Button>
+        </StackPanel>
+    </Grid>
+</Window>

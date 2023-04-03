@@ -1,0 +1,76 @@
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.csprojAssemblyReference.cache
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\MainWindow.g.cs
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\App.g.cs
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg_Content.g.cs
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg_MarkupCompile.cache
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg_MarkupCompile.lref
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\Reg.exe.config
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\Reg.exe
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\Reg.pdb
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\EntityFramework.dll
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\EntityFramework.xml
+D:\4is2\Ivanov\Reg\Reg\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\auto.g.cs
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\auto.baml
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\MainWindow.baml
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.g.resources
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.Properties.Resources.resources
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.csproj.GenerateResource.cache
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.csproj.CoreCompileInputs.cache
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.csproj.CopyComplete
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.exe
+D:\4is2\Ivanov\Reg\Reg\obj\Debug\Reg.pdb
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\auto.g.cs
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\MainWindow.g.cs
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\App.g.cs
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg_Content.g.cs
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg_MarkupCompile.cache
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg_MarkupCompile.lref
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.exe
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.pdb
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\GhostWin.g.cs
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\Reg.exe.config
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\Reg.exe
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\Reg.pdb
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\EntityFramework.dll
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\EntityFramework.xml
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\auto.baml
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\MainWindow.baml
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\GhostWin.baml
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.g.resources
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.Properties.Resources.resources
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\student.COLLEGE.003\Desktop\Reg\Reg\obj\Debug\Reg.csproj.CopyComplete
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\Reg.exe.config
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\Reg.exe
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\Reg.pdb
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\EntityFramework.dll
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\EntityFramework.xml
+D:\4is2\ivanov\Новая папка\Reg\Reg\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\auto.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\GhostWin.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\MainWindow.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\App.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg_Content.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg_MarkupCompile.cache
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg_MarkupCompile.lref
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\auto.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\GhostWin.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\MainWindow.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.g.resources
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.Properties.Resources.resources
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.csproj.GenerateResource.cache
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.csproj.CoreCompileInputs.cache
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.csproj.CopyComplete
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.exe
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.pdb
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Pages\Tires.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Tires.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Pages\Tires.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Tires.baml
