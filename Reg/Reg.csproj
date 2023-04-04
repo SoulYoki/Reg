@@ -64,9 +64,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AddTovar.xaml.cs">
+      <DependentUpon>AddTovar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Redactorxaml.xaml.cs">
+      <DependentUpon>Redactorxaml.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Tires.xaml.cs">
       <DependentUpon>Tires.xaml</DependentUpon>
     </Compile>
+    <Page Include="AddTovar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="auto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -128,6 +138,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Pages\Tires.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Redactorxaml.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

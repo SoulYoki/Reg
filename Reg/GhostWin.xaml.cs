@@ -25,5 +25,9 @@ namespace Reg
             window.Show();
             InitializeComponent();
         }
+        private void phonesList_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

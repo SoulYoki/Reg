@@ -1,0 +1,50 @@
+﻿<Window x:Class="Reg.Redactorxaml"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reg"
+        mc:Ignorable="d"
+        Title="Redactorxaml" Height="650" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Редактирование позиции" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Артикул" Grid.Row="1" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Наименование" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Описание" Grid.Row="3" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Категория" Grid.Row="4" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Производитель" Grid.Row="5" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Цена" Grid.Row="6" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Кол-во" Grid.Row="7" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Label FontFamily="Comic Sans MS" FontSize="20" FontWeight="Normal" Content="Статус" Grid.Row="8" Grid.Column="0"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <Button Background="#FF76E383" Width="190" Height="40" x:Name="addProd" Click="addProd_Click" Grid.Row="10" Grid.Column="0" Content="Добавить" FontFamily="Comic Sans MS" FontSize="20"/>
+        <Button Background="#FF76E383" Width="190" Height="40" x:Name="cancel" Click="cancel_Click" Grid.Row="10" Grid.Column="1" Content="Отмена" FontFamily="Comic Sans MS" FontSize="20"/>
+        <TextBox x:Name="article" Grid.Row="1" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="name" Grid.Row="2" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="description" Grid.Row="3" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="category" Grid.Row="4" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="manufacturer" Grid.Row="5" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="cost" Grid.Row="6" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="amount" Grid.Row="7" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+        <TextBox x:Name="status" Grid.Row="8" Grid.Column="1" FontSize="20" FontFamily="Comic Sans MS" TextAlignment="Center" VerticalAlignment="Center" Text=""/>
+    </Grid>
+</Window>

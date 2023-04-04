@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace Reg
 {
     /// <summary>
@@ -23,21 +24,21 @@ namespace Reg
   
     public partial class auto : Window
     {
-        private Base.tovarEntities DataBase;
+        //private Base.tovarEntities DataBase;
         private bool CaptchaFlag = true;
         private int i = 0;
         private readonly object _userActivityLocker = new object();
         public auto()
         {
             InitializeComponent();
-            try
-            {
-                DataBase = new Base.tovarEntities();
-            }
-            catch
-            {
-                MessageBox.Show("НЕ получилось");
-            }
+            //try
+            //{
+            //    DataBase = new Base.tovarEntities();
+            //}
+            //catch
+            //{
+            //    MessageBox.Show("НЕ получилось");
+            //}
         }
 
       
@@ -85,13 +86,7 @@ namespace Reg
                 return captcha;
             }
         }
-        private void SelectMainWindow()
-        {
-            MainWindow window = new MainWindow();
-            window.Show();
-            Close();
-        }
-       
+  
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Base.User User = SourceCore.MyBase.User.SingleOrDefault(U => U.UserLogin == LoginTB.Text && U.UserPassword == PasswordTB.Text);
@@ -100,7 +95,9 @@ namespace Reg
                 if (CheckCAPTCHA(CaptchaFlag) || i == 0)
                 {
                     MainWindow.User = User;
-                    SelectMainWindow();
+                    MainWindow window = new MainWindow(User.UserRole);
+                    window.Show();
+                    Close();
                 }
                 else
                 {

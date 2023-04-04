@@ -16,9 +16,9 @@
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0" Margin="5" x:Name="AutorizationDataSP">
-            <Label Width="50" Margin="5,50,5,5 "  >Логин</Label>
+            <Label FontFamily="Comic Sans MS" Width="50" Margin="5,50,5,5 "  >Логин</Label>
             <TextBox x:Name="LoginTB" Height="20"></TextBox>
-            <Label Width="50" Margin="5,50,5,5" >Пароль</Label>
+            <Label FontFamily="Comic Sans MS" Width="50" Margin="5,50,5,5" >Пароль</Label>
             <TextBox x:Name="PasswordTB" Height="20"></TextBox>
 
             <DockPanel Margin="15" Visibility="Hidden" x:Name="CaptchaDP">
@@ -30,8 +30,8 @@
         </StackPanel>
 
         <StackPanel Grid.Row="1" x:Name="ButtonsSP">
-            <Button x:Name="LoginButton" Margin="10 20 0 0" Width="40" HorizontalAlignment="Center"  Background="PeachPuff" Click="Button_Click">Войти</Button>
-            <Button x:Name="GuestButton"  Width="40" HorizontalAlignment="Right" Margin="0 0 10 0" Background="DarkGray" Click="GuestButton_Click">гость</Button>
+            <Button FontFamily="Comic Sans MS" x:Name="LoginButton" Margin="10 20 0 0" Width="40" HorizontalAlignment="Center"  Background="#FF76E383" Click="Button_Click">Войти</Button>
+            <Button FontFamily="Comic Sans MS" x:Name="GuestButton"  Width="40" HorizontalAlignment="Right" Margin="0 0 10 0" Background="#FF498C51" Click="GuestButton_Click">гость</Button>
         </StackPanel>
     </Grid>
 </Window>

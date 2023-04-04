@@ -74,3 +74,8 @@ D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Pages\Tires.g.cs
 D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Tires.g.cs
 D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Pages\Tires.baml
 D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Tires.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Reg.csprojAssemblyReference.cache
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\AddTovar.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\AddTovar.baml
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Redactorxaml.g.cs
+D:\4is2\ivanov\Новая папка\Reg\Reg\obj\Debug\Redactorxaml.baml
